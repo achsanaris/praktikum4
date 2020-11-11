@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">praktikum 4</string>
+    <string name="btn_prodi">bawa data activity ke prodi lain</string>
+    <string name="hint_input_prodi">masukan prodi</string>
+</resources>
